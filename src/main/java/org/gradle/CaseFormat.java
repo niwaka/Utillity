@@ -2,7 +2,7 @@ package org.gradle;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+// test
 public class CaseFormat {
 
 	/**
