@@ -2,9 +2,10 @@ package org.gradle;
 
 import org.apache.commons.collections.list.GrowthList;
 
-public class Person {
+public class Person { 
+	// test
     private final String name;
-
+    
     public Person(String name) {
         this.name = name;
         new GrowthList();
