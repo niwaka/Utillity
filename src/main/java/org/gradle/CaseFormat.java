@@ -8,7 +8,7 @@ public class CaseFormat {
 	/**
 	 * キャメルケース表記をスネークケース表記（小文字）へ
 	 * 
-	 * @param targetStr
+	 * @param targetStr　
 	 * @return
 	 */
 	public static String camelToSnake(String targetStr) {
